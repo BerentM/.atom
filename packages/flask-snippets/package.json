@@ -1,0 +1,69 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-11743-7525-1tpdtps/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-11743-7525-1tpdtps/package.tgz",
+        "spec": "/tmp/d-11743-7525-1tpdtps/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-11743-7525-5yg7y7"
+    ]
+  ],
+  "_from": "../d-11743-7525-1tpdtps/package.tgz",
+  "_id": "flask-snippets@0.3.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/flask-snippets",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-11743-7525-1tpdtps/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-11743-7525-1tpdtps/package.tgz",
+    "spec": "/tmp/d-11743-7525-1tpdtps/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11743-7525-1tpdtps/package.tgz",
+  "_shasum": "9444ffe130661cb15fcfbe75391ed8daf9893e67",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-11743-7525-1tpdtps/package.tgz",
+  "_where": "/tmp/apm-install-dir-11743-7525-5yg7y7",
+  "autor": {
+    "name": "Juan Leon"
+  },
+  "bugs": {
+    "url": "https://github.com/jleonra/flask-snippets/issues"
+  },
+  "dependencies": {},
+  "description": "A collection of snippets for Python Flask Microframework.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.2.0 <2.0.0"
+  },
+  "homepage": "https://github.com/jleonra/flask-snippets#readme",
+  "keywords": [
+    "snippets",
+    "python",
+    "flask",
+    "jinja"
+  ],
+  "license": "MIT",
+  "main": "./lib/flask-snippets",
+  "name": "flask-snippets",
+  "optionalDependencies": {},
+  "readme": "# flask-snippets\n\n\n### Adds snippets to quickly build Jinja html templates and Flask python controls in Atom.\n\n***\n## To install:\n> apm install flask-snippets\n\n## Python controls\n![Python Snippet](https://ibin.co/2waIulh067f4.gif)\n\n\n\n## Jinja templates\n\n![Jinja Templates](https://ibin.co/2waLnfYDHVrc.gif)\n\n***\n\n## Snippets\n#### All snippets start with the letter f\n\n### [Jinja Templates]( http://jinja.pocoo.org/docs/dev/templates/):\n* fexp\n* ffilter\n* ffb\n* fcomment\n* fblock  --> Generic block, useful for vanilla and extension template blocks\n* fchild\n* fself\n* fsuper\n* ffor\n* fif\n* fife\n* felif\n* fmacro\n* fset\n* finclude\n* fimport\n* fautoescape\n* furl\n\n***\n\n### [Flask](http://flask.pocoo.org/docs/0.11/quickstart/):\n* \"\" (single line docstring)\n* \"\"\" (multi-line docstring)\n* fapp\n* froute\n* furl\n* fmeth\n* frt\n* ftreq\n* fup\n* fsup\n* frc\n* fsc\n* feh\n* flog\n\n***\n\n## TODO:\n- Add more snippets for more specific cases (flashing, etc.)\n- Add description to snippet's name in the readme file.\n- Review snippets for optimization\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jleonra/flask-snippets.git"
+  },
+  "version": "0.3.3"
+}

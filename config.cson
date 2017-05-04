@@ -1,0 +1,32 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "f4fdd8ee-06a5-4083-b9c8-9457304fd6fc"
+  "atom-material-ui":
+    colors:
+      abaseColor: "#cc23f0"
+      accentColor: "#000000"
+  "autocomplete-python":
+    showTooltips: true
+    useKite: false
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "ubik-neon-syntax"
+    ]
+  editor:
+    backUpBeforeSaving: true
+    fontFamily: "Codename coder free 4f"
+    invisibles: {}
+    showIndentGuide: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "0f9e699f-b732-f86c-fa6e-aa1ec02f5002"
+  "terminal-plus":
+    core: {}
+  "vim-surround": {}
+  welcome:
+    showOnStartup: false

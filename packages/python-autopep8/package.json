@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-11712-11553-g5zu9z/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-11712-11553-g5zu9z/package.tgz",
+        "spec": "/tmp/d-11712-11553-g5zu9z/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-11712-11553-14fuz5n"
+    ]
+  ],
+  "_from": "../d-11712-11553-g5zu9z/package.tgz",
+  "_id": "python-autopep8@0.1.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/python-autopep8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-11712-11553-g5zu9z/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-11712-11553-g5zu9z/package.tgz",
+    "spec": "/tmp/d-11712-11553-g5zu9z/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11712-11553-g5zu9z/package.tgz",
+  "_shasum": "1bbd43538f9bbbfeef5134cae56a0e622067b5df",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-11712-11553-g5zu9z/package.tgz",
+  "_where": "/tmp/apm-install-dir-11712-11553-14fuz5n",
+  "bugs": {
+    "url": "https://github.com/markbaas/atom-python-autopep8/issues"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
+  },
+  "description": "Format python code using autopep8",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.185.0 <2.0.0"
+  },
+  "homepage": "https://github.com/markbaas/atom-python-autopep8#readme",
+  "license": "MIT",
+  "main": "./lib/index",
+  "name": "python-autopep8",
+  "optionalDependencies": {},
+  "readme": "# Atom Python Autopep8\n\nUses [autopep8](https://github.com/hhatto/autopep8) installed to format python code according to pep8 guidelines.\n\n\n### Install\n\nMake sure to have [autopep8](https://github.com/hhatto/autopep8) installed. Install it by running `pip install autopep8`\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markbaas/atom-python-autopep8.git"
+  },
+  "version": "0.1.3"
+}
